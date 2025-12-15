@@ -97,7 +97,6 @@
   (-webkit-text-stroke: 1px var(--Themes-background, #ffffff)) {
   .label_text {
     text-shadow: none;
-    text-stoke: 1px var(--Themes-background, #ffffff);
     -webkit-text-stroke: 1px var(--Themes-background, #ffffff);
   }
 }
